@@ -1,4 +1,4 @@
-package codechallenges.linkedlist;
+package main;
 
 import challenges.LinkedListChallenges;
 
