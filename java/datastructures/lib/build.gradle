@@ -17,7 +17,10 @@ repositories {
 }
 
 dependencies {
-    // Use JUnit Jupiter for testing.
+    implementation 'com.parisesoftware:linkedlist:1.0.6'
+  implementation 'com.parisesoftware:linkedlist:1.0.6'
+
+  // Use JUnit Jupiter for testing.
     testImplementation 'org.junit.jupiter:junit-jupiter:5.7.1'
 
     // This dependency is exported to consumers, that is to say found on their compile classpath.
