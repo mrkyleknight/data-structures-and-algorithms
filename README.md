@@ -6,6 +6,7 @@
  
 [Code Challenge: 6 inked-list-insertions](Code6.md)
 
+[Code Challenge: 7 linked-list-kth](Code7.md)
 
 
 
