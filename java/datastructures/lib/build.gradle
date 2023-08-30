@@ -19,6 +19,9 @@ repositories {
 dependencies {
     implementation 'com.parisesoftware:linkedlist:1.0.6'
   implementation 'com.parisesoftware:linkedlist:1.0.6'
+  implementation 'junit:junit:4.13.1'
+  implementation 'junit:junit:4.13.1'
+  implementation 'org.testng:testng:7.1.0'
 
   // Use JUnit Jupiter for testing.
     testImplementation 'org.junit.jupiter:junit-jupiter:5.7.1'
