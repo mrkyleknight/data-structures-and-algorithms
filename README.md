@@ -12,6 +12,23 @@
 
 [Code Challenge: 27 inked-list-insertions](Code6.md)
 
+# Code Challenge: 32
+
+## tree-intersection
+Feature Tasks
+Write a function called tree_intersection that takes two binary trees as parameters.
+Using your Hashmap implementation as a part of your algorithm, return a set of values found in both trees.
+
+## Whiteboard Process
+<!-- Embedded whiteboard image -->
+
+## Approach & Efficiency
+I changed the 'TreeNode' source to fix the error. This wasn't about speed, just making the code work.
+
+## Solution
+To check if your code works, you can click 'Run Test' in your coding program. If everything is good, you'll see a message saying it passed; if not, you'll find out what needs fixing.
+
+
 # Code Challenge: 36
 
 ## graph-breadth-first
@@ -53,3 +70,4 @@ I used a depth-first search method because it's a straightforward way to explore
 ## Solution
 To solve the challenge, I used a simple "to-do list" of places to visit in the graph, marking off each one as I visited it. This method is both quick and doesn't require much extra memory.
 To see the code in action, you can just put the provided code files into your coding project and run the tests. They'll show you if everything's working as expected.
+
